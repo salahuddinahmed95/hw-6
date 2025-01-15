@@ -1,0 +1,47 @@
+.box{
+  height:100px;
+}
+.purple{
+  background-color: purple;
+}
+
+
+
+.container{
+  overflow:hidden;
+}
+.blog{
+  float:left;
+  width: 60%;
+  height:80px;
+  background-color: green;
+
+}
+.contact{
+  float: right;
+  width: 40%;
+  height: 80px;
+  background-color: blue;
+}
+.i{
+float: left;
+width: 33.33%;
+height: 68px;
+}
+
+.grey{
+  background-color: grey;
+}
+
+.red{
+  background-color: red;
+}
+
+.teal{
+
+  background-color: teal;
+}
+
+.yellowgreen{
+   background-color: yellowgreen
+}
